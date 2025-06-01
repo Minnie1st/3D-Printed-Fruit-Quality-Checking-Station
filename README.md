@@ -2,13 +2,11 @@
 
 **Course:** LTAT.06.010 Pervasive Data Science Seminar  
 
----
 
 ## Overview
 
 This project presents a fruit quality checking station built with 3D printing technology and IoT integration. It leverages sensor data collection, MQTT messaging, and a user-friendly Node-RED dashboard UI to evaluate fruit quality in real-time.
 
----
 
 ## Hardware and Software Components
 
@@ -18,7 +16,6 @@ This project presents a fruit quality checking station built with 3D printing te
 - **Data Transmission:** Sensor data is sent via MQTT protocol to a broker.
 - **Visualization and Interaction:** Node-RED is used to build a dashboard UI accessible on mobile devices, allowing users to select fruits and view quality assessment results instantly.
 
----
 
 ## Workflow
 
@@ -34,7 +31,6 @@ This project presents a fruit quality checking station built with 3D printing te
 4. **Data Reception and UI with Node-RED**  
    Node-RED subscribes to the MQTT topic, processes incoming sensor data, and updates the UI dynamically. The UI enables fruit selection and displays quality status such as "Fresh," "Overripe," or "Spoiled" with intuitive visuals.
 
----
 
 ## Usage
 
@@ -44,7 +40,6 @@ This project presents a fruit quality checking station built with 3D printing te
 - Select the fruit type from the UI dropdown.
 - View the fruit quality assessment live.
 
----
 
 ## Notes
 
