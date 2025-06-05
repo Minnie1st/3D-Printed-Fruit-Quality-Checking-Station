@@ -1,4 +1,4 @@
-# 3D-Printed-Fruit-Quality-Checking-Station
+# 3D-Printing-Fruit-Quality-Checking-Station
 
 **Course:** LTAT.06.010 Pervasive Data Science Seminar  
 
