@@ -30,7 +30,7 @@ This project presents a fruit quality checking station built with 3D printing te
    The Arduino publishes sensor readings to a configured MQTT broker topic.
 
 4. **Data Reception and UI with Node-RED**  
-   Node-RED subscribes to the MQTT topic, processes incoming sensor data, and updates the UI dynamically. The UI enables fruit selection and displays quality status such as "Fresh," "Overripe," or "Spoiled" with intuitive visuals.
+   Node-RED subscribes to the MQTT topic, processes incoming sensor data, and updates the UI dynamically. The UI enables fruit selection and displays quality status such as "Fresh," "rotten" with intuitive visuals.
 
 
 ## Usage
