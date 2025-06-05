@@ -10,6 +10,9 @@ The 3D printing process was not smooth. I failed many times , like prints didn�
 ### Applying IoT Knowledge
 One part I’m proud of is how I applied what I learned in my IoT class. I used MQTT to connect everything, which made the system simple and effective and used node red to show the UI. It felt good to actually use classroom knowledge in another project. During the experiment, I found many unexpected problems. For example, the light sensor was very sensitive. Just turning on or off the room light, or moving the sensor slightly, changed the results a lot. I had to test and adjust the threshold many times. It made me realize that in real applications, things are not always stable. We need to think about how to make it more reliable in changing environments.
 
+### What I Learned
+One important lesson I learned the hard way was the importance of clarifying project goals at the very beginning. At first, the professor and co-supervisor had different expectations, and I didn’t confirm which direction to follow. Because of that, I wasted time going in the wrong direction. Next time, I’ll make sure to ask the right questions and align everyone before diving into the work.
+
 At last, yes, even though the final result is not perfect for me , I learned to trust the learning process , to take small steps, to be ok with not knowing everything at the start, and to keep going even when it’s frustrating. That’s something I’ll always remember.
 
 
