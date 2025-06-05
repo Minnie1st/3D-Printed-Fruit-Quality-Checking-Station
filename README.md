@@ -1,6 +1,7 @@
 # 3D-Printing-Fruit-Quality-Checking-Station
 
 **Course:** LTAT.06.010 Pervasive Data Science Seminar  
+Video Link: https://drive.google.com/file/d/1tD8V2mcFnX4cMHpV9DHMLTtDsQF4vXHV/view?usp=drive_link
 
 
 ## Overview
